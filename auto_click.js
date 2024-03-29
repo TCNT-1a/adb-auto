@@ -26,6 +26,7 @@ function CoordinateDevice() {
   return {
     Aris: [472, 819, 1619, 1670],
     "SM-M515F": [489, 819, 1722, 1747],
+    "SM-A346E": [489, 819, 1722, 1747],
   };
 }
 function ggg(v) {
